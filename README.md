@@ -1,7 +1,6 @@
 # Personal Web Development Project – Hamza Hassan
 
 ## Overview
-
 This repository showcases a fully developed personal website project created for the 4COSC011W Web Design and Development module at the University of Westminster. The website demonstrates practical use of HTML, CSS, JavaScript, and SVG to deliver a professional and responsive portfolio website aligned with modern web development standards.
 
 ## Project Features
@@ -45,6 +44,8 @@ The website includes the following fully functional and styled pages:
 
 ## Live Website
 
+
+⚠️  Original university-hosted links are now inactive. To view the website locally, download or clone this repository and open `Mainpage.html` in your browser. 
 Accessible via the University of Westminster hosting platform:
 - [Presentation Page](https://w2044381.users.ecs.westminster.ac.uk/WebDev2024/Presentation.html)
 - [Main Page](https://w2044381.users.ecs.westminster.ac.uk/WebDev2024/Mainpage.html)
